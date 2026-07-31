@@ -1,0 +1,10 @@
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+Build/
+Plugins/
+*.sln
+*.vsconfig
+*.log
+*.tmp
